@@ -4,7 +4,7 @@ import random
 words = ["python", "programming", "artificial", "intelligence", "machine", "learning"]
 
 # Number of allowed incorrect guesses
-max_guesses = 6
+max_guesses = 4
 
 def main():
   # Choose a random word
